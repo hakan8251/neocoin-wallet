@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NeoModules.NEP6" Version="0.1.4" />
+    <PackageReference Include="NeoModules.RPC" Version="1.2.1" />
+  </ItemGroup>
+
+</Project>

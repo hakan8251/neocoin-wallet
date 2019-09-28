@@ -1,0 +1,18 @@
+{
+  "address": "AHk5L8u16yBbLyFHo3b7aYQCtuGH3sRnn1",
+  "label": "metinyakarNet",
+  "isDefault": true,
+  "lock": false,
+  "key": "6PYNQtoZSbQMEsReRiuS2Sp5D82oLCtRVXSrnRVHtHoVSYQ2RKMc7Q848F",
+  "contract": {
+    "script": "210327605f0ea7c829db2ca46f162c13e1efc9646c52e7416c72c08ab7d4bd335a85ac",
+    "parameters": [
+      {
+        "name": "signature",
+        "type": "Signature"
+      }
+    ],
+    "deployed": false
+  },
+  "extra": null
+}

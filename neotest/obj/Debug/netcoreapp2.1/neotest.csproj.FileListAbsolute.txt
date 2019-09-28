@@ -1,0 +1,11 @@
+C:\Users\user9090\Source\Repos\neotest\neotest\bin\Debug\netcoreapp2.1\neotest.deps.json
+C:\Users\user9090\Source\Repos\neotest\neotest\bin\Debug\netcoreapp2.1\neotest.runtimeconfig.json
+C:\Users\user9090\Source\Repos\neotest\neotest\bin\Debug\netcoreapp2.1\neotest.runtimeconfig.dev.json
+C:\Users\user9090\Source\Repos\neotest\neotest\bin\Debug\netcoreapp2.1\neotest.dll
+C:\Users\user9090\Source\Repos\neotest\neotest\obj\Debug\netcoreapp2.1\neotest.csproj.CoreCompileInputs.cache
+C:\Users\user9090\Source\Repos\neotest\neotest\obj\Debug\netcoreapp2.1\neotest.AssemblyInfoInputs.cache
+C:\Users\user9090\Source\Repos\neotest\neotest\obj\Debug\netcoreapp2.1\neotest.AssemblyInfo.cs
+C:\Users\user9090\Source\Repos\neotest\neotest\bin\Debug\netcoreapp2.1\neotest.pdb
+C:\Users\user9090\Source\Repos\neotest\neotest\obj\Debug\netcoreapp2.1\neotest.dll
+C:\Users\user9090\Source\Repos\neotest\neotest\obj\Debug\netcoreapp2.1\neotest.pdb
+C:\Users\user9090\Source\Repos\neotest\neotest\obj\Debug\netcoreapp2.1\neotest.csprojAssemblyReference.cache
